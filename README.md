@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working like Junior Software Developer
 - 🌱 I’m currently learning about Python
-- 💬 With knowledge in: .NET Framework, Java, JS and Cypress Automation how technologies.
+- 💬 With knowledge in: .NET Framework, Java, JS and Automation technologies such as Cypress.
 - 📫 How to reach me: hughhnp@gmail.com
 
 ## About me
