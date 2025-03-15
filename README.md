@@ -6,7 +6,6 @@
 - 📫 How to reach me: hughhnp@gmail.com
 
 ## About me
-<a target="_blank" href="https://www.instagram.com/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a target="_blank" href="https://www.linkedin.com/in/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ## My technical skills:
